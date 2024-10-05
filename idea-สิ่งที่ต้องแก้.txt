@@ -17,3 +17,7 @@ idea เพิ่ม
 link หนังสือ : https://bookdosepath.com/book/show-product/81378
 
 ของเราเป็นเชิงปริมาณ
+
+ข้อมูลทุติยภูมิเป็นข้อมูลสะสมรายเดือนจากช่วงใดถึงช่วงใด
+	ตัวแปรที่ x จะใช้ Ledger Balance ยอดคงเหลือในบัญชี , Credit Limit Current (วงเงินสินเชื่อปัจจุบัน) , Date Opened (วันที่เปิดบัญชี) , Collateral Required มีหลักประกัน , Uncollected Principal (ยอดเงินต้นที่ยังไม่ได้เก็บ) , Term (ระยะเวลาสินเชื่อ) , NPL Start Date (เคยมีประวัติเป็น NPL มั้ย) ,(เป็น NPL นานแค่ไหน) , Religion ศาสนา , OCC อาชีพ , Province จังหวัด , Restructure Flag มีประวัติการปรับโครงสร้างหนี้ , Sex เพศ , Income ระดับรายได้ , EDUCATION ระดับการศึกษา ,อัตราส่วนการใช้วงเงิน = Ledger Balance/ Credit Limit Current , Days Since Last Payment (จำนวนวันที่ผ่านมาตั้งแต่ชำระครั้งสุดท้าย) , Uncollected Principal-to-Total Principal Ratio (อัตราส่วนเงินต้นที่ยังไม่ได้เก็บต่อเงินต้นทั้งหมด) , Late Payment Ratio (อัตราส่วนการชำระล่าช้า) , อายุ
+ตัวแปร y (Days Delinquent) จำนวนวันค้างชำระ
